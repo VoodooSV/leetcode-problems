@@ -20,6 +20,10 @@ https://leetcode.com/problems/container-with-most-water/discuss/6099/Yet-another
 
 // Time complexity: O(N)
 // Space complexity : O(1)
+/**
+ * @param {number[]} height
+ * @return {number}
+ */
 var maxArea = function (height) {
     let maxVolume = 0;
     let left = 0;
