@@ -5,6 +5,8 @@ May 14, 2019
 May 16, 2019 
     238. Product of Array Except Self
     283. Move Zeroes
+May 20, 2019
+    724. Find Pivot Index
     
 Next:
 https://leetcode.com/problems/trapping-rain-water/
