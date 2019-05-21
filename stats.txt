@@ -8,6 +8,7 @@ May 16, 2019
 May 20, 2019
     724. Find Pivot Index
     747. Largest Number At Least Twice of Others
+    66. Plus One
     
 Next:
 https://leetcode.com/problems/trapping-rain-water/
