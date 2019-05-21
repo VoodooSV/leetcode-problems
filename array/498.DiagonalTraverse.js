@@ -86,3 +86,7 @@ console.log(findDiagonalOrder([
 //     [1,2],
 //     [3,4]
 // ]));
+
+// console.log(findDiagonalOrder([
+//     [2,3]
+// ]));
