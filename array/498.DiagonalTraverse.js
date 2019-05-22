@@ -34,7 +34,7 @@ var findDiagonalOrder = function(matrix) {
     let i = 0;
     let j = 0;
     let direction = true; // Up-Right
-    let result = [];
+    const result = [];
     const width = matrix[0].length;
     const height = matrix.length;
 
