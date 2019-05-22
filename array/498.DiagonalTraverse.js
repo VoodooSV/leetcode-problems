@@ -21,7 +21,7 @@ Note:
 The total number of elements of the given matrix will not exceed 10,000.
 */
 
-// Time complexity: O(N)
+// Time complexity: O(M * N)
 // Space complexity : O(1)
 /**
  * @param {number[][]} matrix
