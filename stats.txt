@@ -15,6 +15,8 @@ May 22, 2019
     54. Spiral Matrix
 June 06, 2019
     118. Pascal's Triangle    
+June 14, 2019
+    67. Add Binary
     
 Next:
 https://leetcode.com/problems/trapping-rain-water/
