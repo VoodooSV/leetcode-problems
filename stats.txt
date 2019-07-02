@@ -19,6 +19,8 @@ June 14, 2019
     67. Add Binary
 June 18, 2019    
     28. Implement strStr() (Brute force)   
+July 2, 2019    
+    14. Longest Common Prefix
     
 Next:
     28. Implement strStr() (Knuth–Morris–Pratt (KMP) Pattern Matching)
