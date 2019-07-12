@@ -23,6 +23,8 @@ July 2, 2019
     14. Longest Common Prefix
 July 3, 2019
     344. Reverse String
+July 12, 2019
+    561. Array Partition I
     
 Next:
     28. Implement strStr() (Knuth–Morris–Pratt (KMP) Pattern Matching)
