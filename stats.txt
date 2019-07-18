@@ -25,6 +25,8 @@ July 3, 2019
     344. Reverse String
 July 12, 2019
     561. Array Partition I
+July 18, 2019
+    167. Two Sum II - Input array is sorted
     
 Next:
     28. Implement strStr() (Knuth–Morris–Pratt (KMP) Pattern Matching)
