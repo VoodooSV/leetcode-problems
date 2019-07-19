@@ -27,6 +27,8 @@ July 12, 2019
     561. Array Partition I
 July 18, 2019
     167. Two Sum II - Input array is sorted
+July 19, 2019
+    27. Remove Element
     
 Next:
     28. Implement strStr() (Knuth–Morris–Pratt (KMP) Pattern Matching)
