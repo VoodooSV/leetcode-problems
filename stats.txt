@@ -29,6 +29,8 @@ July 18, 2019
     167. Two Sum II - Input array is sorted
 July 19, 2019
     27. Remove Element
+July 21, 2019    
+    485. Max Consecutive Ones
     
 Next:
     28. Implement strStr() (Knuth–Morris–Pratt (KMP) Pattern Matching)
